@@ -24,11 +24,12 @@
    + Xử lý hình ảnh, âm thanh, text
 ## **4. Kết luận, hướng phát triển và các điều tâm đắc rút ra được sau khi hoàn thiện chương trình**
  + Kết luận:
-      1. Hoàn chỉnh các chức năng cơ bản của game:di chuyển, va chạm với vật thể, tốc độ bất kỳ cho vật thể, thêm hiệu ứng âm thanh, menu, ...
+      1. Hoàn chỉnh các chức năng cơ bản của game:di chuyển, va chạm với vật thể, thêm hiệu ứng âm thanh, menu, ...
       2. Còn hạn chế trong việc thiết kế đồ họa.
  + Hướng phát triển:
       1. Thêm menu, tính điểm cho game
       2. Cải thiện đẹp hơn cho phần đồ họa.
+      3. Thêm tốc độ bất kỳ cho vật thể
  + Các điều tâm đắc rút ra sau khi hoàn thiện chương trình:
       1. Biết cách sử dụng các hàm của thư viện SDL, SDL_img, SDL_ttf, SDL_mixer
       2. Biết được một chút về OOP: tái sử dụng code
