@@ -22,7 +22,7 @@
    + Xử lý hình ảnh, âm thanh, text
 ## **4. Kết luận, hướng phát triển và các điều tâm đắc rút ra được sau khi hoàn thiện chương trình**
  + Kết luận:
-      1. Hoàn chỉnh các chức năng cơ bản của game:di chuyển, va chạm với vật thể, thêm hiệu ứng âm thanh, menu, ...
+      1. Hoàn chỉnh các chức năng cơ bản của game:di chuyển, va chạm với vật thể,âm thanh, ...
       2. Còn hạn chế trong việc thiết kế đồ họa.
  + Hướng phát triển:
       1. Thêm menu, tính điểm cho game
