@@ -9,7 +9,7 @@
 
 ## **1. Hướng dẫn cài đặt game**
    + Tại Github vào nút Code màu xanh lá cây -> Downloads Zip
-   + Tải và giải nén file Galaxy-Glide-main.
+   + Tải và giải nén file Galaxy-Glide-main.Zip
    + Vào mục Galaxy-Glide-main -> Galaxy Glide
 ## **2. Mô tả chung về trò chơi:**
    +  Đây là trò chơi thử thách khả năng phản xạ và khả năng quan sát của người chơi, các vật thể sẽ liên tục xuất hiện từ bên ngoài màn hình và nhiệm vụ của chúng ta là sử dụng các phím ASDW hoặc lên xuống sang trái sang phải để điều khiển phi thuyền tránh né các vật thể giúp con tàu an toàn. Cùng với đó trong lúc chơi, người chơi có thể tận hưởng bài nhạc lofi để giảm căng thẳng :3
