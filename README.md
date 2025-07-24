@@ -33,3 +33,7 @@
       2. Biết được một chút về OOP: tái sử dụng code
       3. Nhận thấy được các mặt hạn chế cần cố gắng của bản thân.
       
+## TODO: Add CUDA accelerator
+- Add CUDA support to improve calculation
+- Implement parallel primitives (stream compaction etc)
+- Expect double digit performance increase
